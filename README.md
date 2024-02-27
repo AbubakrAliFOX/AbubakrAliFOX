@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Abubakr 👋</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/abubakr-eldaw/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
@@ -32,7 +31,15 @@ I'm a front-end web developer. With a keyboard as my paintbrush, I create user-c
 
 
 ## My Projects:
-- 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
+- 🔭 1. Portfolio
+- 🍋 2. Little Lemon
+- 🏕️ 3. YelpCamp
+- 💸 4. Banking System CLI
+- 🎦 5. TV Scout
+- 📱 6. iPhones Calculator 
+- 🎲 7. Rock Paper Scissors Game
+- 🔴🟢🔵 8. RGB Color Game
+- #️⃣ 9. Score Keeper
 - 🔍 I have 2 live apps: 
   - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
   - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
