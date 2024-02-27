@@ -31,16 +31,90 @@ I'm a front-end web developer. With a keyboard as my paintbrush, I create user-c
 
 
 ## My Projects:
-- 🔭 1. Portfolio
-- 🍋 2. Little Lemon
-- 🏕️ 3. YelpCamp
-- 💸 4. Banking System CLI
-- 🎦 5. TV Scout
-- 📱 6. iPhones Calculator 
-- 🎲 7. Rock Paper Scissors Game
-- 🔴🟢🔵 8. RGB Color Game
-- #️⃣ 9. Score Keeper
-- 🔍 I have 2 live apps: 
-  - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
-  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
-- 💬 Ask me about **ReactJs and Frontend**
+<ol>
+  <li>
+    🔭 Portfolio
+    <a style="display: block;" href="https://github.com">
+        <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
+        alt="GitHub Badge"
+        />
+    </a>
+  </li>
+  <li>
+    🍋 Little Lemon
+    <a style="display: block;" href="https://github.com">
+        <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
+        alt="GitHub Badge"
+        />
+    </a>
+  </li>
+  <li>
+    🏕️ YelpCamp
+    <a style="display: block;" href="https://github.com">
+        <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
+        alt="GitHub Badge"
+        />
+    </a>
+  </li>
+  <li>
+    💸 Banking System CLI
+    <a style="display: block;" href="https://github.com">
+        <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
+        alt="GitHub Badge"
+        />
+    </a>
+  </li>
+  <li>
+    🎦 TV Scout
+    <a style="display: block;" href="https://github.com">
+        <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
+        alt="GitHub Badge"
+        />
+    </a>
+  </li>
+  <li>
+    🖵 iPhones Calculator
+    <a style="display: block;" href="https://github.com">
+        <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
+        alt="GitHub Badge"
+        />
+    </a>
+  </li>
+  <li>
+    🎲 Rock Paper Scissors Game
+    <a style="display: block;" href="https://github.com">
+        <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
+        alt="GitHub Badge"
+        />
+    </a>
+  </li>
+  <li>
+    🎲 🔴🟢🔵 Color Game
+    <a style="display: block;" href="https://github.com">
+        <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
+        alt="GitHub Badge"
+        />
+    </a>
+  </li>
+  <li>
+    #️⃣ Score Keeper
+    <a style="display: block;" href="https://github.com">
+        <img
+        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
+        alt="GitHub Badge"
+        />
+    </a>
+  </li>
+</ol>
+
+
+
+
