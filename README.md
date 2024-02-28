@@ -33,87 +33,87 @@ I'm a front-end web developer. With a keyboard as my paintbrush, I create user-c
 ## My Projects:
 <ol>
   <li>
-    🔭 Portfolio
-    <a style="display: block;" href="https://github.com">
-        <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
-        alt="GitHub Badge"
-        />
+    🔭 Portfolio: 
+    <a style="display: block;" target="_blank" href="https://github.com/AbubakrAliFOX/Portfolio">
+        GitHub
+    </a> - 
+    <a style="display: block;" target="_blank" href="https://portfolio-kfwr.onrender.com/">
+        Live Demo
     </a>
   </li>
   <li>
-    🍋 Little Lemon
-    <a style="display: block;" href="https://github.com">
-        <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
-        alt="GitHub Badge"
-        />
+    🍋 Little Lemon: 
+    <a style="display: block;" target="_blank" href="https://github.com/AbubakrAliFOX/Little-Lemon">
+        GitHub
+    </a> - 
+    <a style="display: block;" target="_blank" href="https://little-lemon-5au5.onrender.com/">
+        Live Demo
     </a>
   </li>
   <li>
     🏕️ YelpCamp
-    <a style="display: block;" href="https://github.com">
-        <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
-        alt="GitHub Badge"
-        />
+    <a style="display: block;" target="_blank" href="https://github.com/AbubakrAliFOX/YelpCamp">
+        GitHub
+    </a> - 
+    <a style="display: block;" target="_blank" href="https://yelpcamp-zynh.onrender.com/">
+        Live Demo
     </a>
   </li>
   <li>
-    💸 Banking System CLI
-    <a style="display: block;" href="https://github.com">
-        <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
-        alt="GitHub Badge"
-        />
+    💸 Banking System CLI: 
+    <a style="display: block;" target="_blank" href="https://github.com/AbubakrAliFOX/Banking-System.git">
+        GitHub
     </a>
   </li>
   <li>
-    🎦 TV Scout
-    <a style="display: block;" href="https://github.com">
-        <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
-        alt="GitHub Badge"
-        />
+    🎦 TV Scout: 
+    <a style="display: block;" target="_blank" href="https://github.com/AbubakrAliFOX/TV-Scout">
+        GitHub
+    </a> - 
+    <a style="display: block;" target="_blank" href="https://tv-scout.onrender.com/">
+        Live Demo
     </a>
   </li>
   <li>
     🖵 iPhones Calculator
-    <a style="display: block;" href="https://github.com">
-        <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
-        alt="GitHub Badge"
-        />
+    <a style="display: block;" target="_blank" href="https://github.com/AbubakrAliFOX/Calculator-React">
+        GitHub
+    </a> - 
+    <a style="display: block;" target="_blank" href="https://calculator-0alc.onrender.com/">
+        Live Demo
     </a>
   </li>
   <li>
-    🎲 Rock Paper Scissors Game
-    <a style="display: block;" href="https://github.com">
-        <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
-        alt="GitHub Badge"
-        />
+    🎲 Rock Paper Scissors Game: 
+    <a style="display: block;" target="_blank" href="https://github.com/AbubakrAliFOX/Rock-Paper-Scissors">
+        GitHub
+    </a> - 
+    <a style="display: block;" target="_blank" href="https://rock-paper-scissors-jezh.onrender.com/">
+        Live Demo
     </a>
   </li>
   <li>
-    🎲 🔴🟢🔵 Color Game
-    <a style="display: block;" href="https://github.com">
-        <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
-        alt="GitHub Badge"
-        />
+    🎲 🔴🟢🔵 Color Game: 
+    <a style="display: block;" target="_blank" href="https://github.com/AbubakrAliFOX/ColorsGame">
+        GitHub
+    </a> - 
+    <a style="display: block;" target="_blank" href="https://colorgame-6dia.onrender.com/">
+        Live Demo
     </a>
   </li>
   <li>
-    #️⃣ Score Keeper
-    <a style="display: block;" href="https://github.com">
-        <img
-        src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"
-        alt="GitHub Badge"
-        />
+    #️⃣ Score Keeper: 
+    <a style="display: block;" target="_blank" href="https://github.com/AbubakrAliFOX/Score-Keeper">
+        GitHub
+    </a> - 
+    <a style="display: block;" target="_blank" href="https://score-keeper-0quo.onrender.com/">
+        Live Demo
     </a>
   </li>
 </ol>
+
+
+
 
 
 
