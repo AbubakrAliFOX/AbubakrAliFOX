@@ -7,9 +7,9 @@
 I'm a full stack web developer. With a keyboard as my paintbrush, I create user-centric experiences, one line of code at a time. I'm on a mission to bridge innovation and creativity, one project at a time. Welcome to my world of code, design, and possibilities.
 
 ## Languages that I use:
-![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=c&logoColor=#4D53E8)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=c&logoColor=#4D53E8)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![PhP](https://img.shields.io/badge/-php-000000?style=flat&logo=php&logoColor=777BB4)
+![PhP](https://img.shields.io/badge/-PhP-000000?style=flat&logo=php&logoColor=777BB4)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B&logoColor=1a4674)
 
 ## Frameworks / Utilities
